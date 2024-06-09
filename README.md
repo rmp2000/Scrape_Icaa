@@ -78,4 +78,3 @@ This project uses the following libraries:
 ## Contact
 
 For any questions or suggestions, please contact rmartinezpeinado@example.com.
-```
