@@ -41,8 +41,10 @@ python main.py
 ```
 
 ### Example
-
-This will scrape film data from the specified URL for the year desire, and save the results into an Excel file named `icaa_year.xlsx` in the `excel_final` directory.
+```bash
+python main.py YEAR
+```
+This will scrape film data from the specified URL for the year desire(default year is 2024), and save the results into an Excel file named `icaa_year.xlsx` in the `excel_final` directory.
 
 ## Project Structure
 
