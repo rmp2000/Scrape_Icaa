@@ -35,12 +35,6 @@ Download ChromeDriver and add it to your system's PATH.
 
 ## Usage
 
-
-```bash
-python main.py
-```
-
-### Example
 ```bash
 python main.py YEAR
 ```
